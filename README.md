@@ -24,3 +24,7 @@ This project was facilitated by the Google Cybersecurity Professional Certificat
 | Detect | To detect this type of attack in the future, the team implements a network monitoring interface which would detect abnormal traffic patterns and report this to the teams SIEM tool. Another layer of defense is the implementation of the IDS/IPS hardware to the network which would alert the team for any suspicious packets that could have come from a spoofed IP address. |
 | Respond | The team will contact upper management or legal authorities based on severity of security incident. Stronger access controls such as segmentation will be implemented to make it easier to isolate the affected systems and prevent further disruption on operations. Regular monitoring of network logs will make it easier to spot potential incidents and results in faster reponse. |
 | Recover | To recover from the DDOS attack, access to network services need to be restored to normal functioning state. All non-critical network services will be stopped to reduce internal network traffic. Critical network services will receive priority in restoration. Once DDOS attack has timed out, all non-critical network systems and services can be brought back online. As additional note, ICMP flood attacks can be blocked with a firewall. |
+
+## Reflections & Notes
+
+- The team could invest in NGFW which has more robust defenses and detection for suspicious network activity from external and internal traffic
