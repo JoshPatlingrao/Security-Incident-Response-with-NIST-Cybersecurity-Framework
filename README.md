@@ -6,6 +6,10 @@ This project was facilitated by the Google Cybersecurity Professional Certificat
 
 ### Skills Learned
 - Responding to a security incident using the NIST cybersecurity framework
+- Writing an effective summary of security incident
+- Concisely identifying source of the incident
+- Record the protections deployed, detection methods and reponse of the team to the incident
+- Outline the steps taken to recover from the incident
 
 ### Tools Used
 - NIST Cybersecurity Framework
