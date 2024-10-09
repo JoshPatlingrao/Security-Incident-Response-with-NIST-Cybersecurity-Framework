@@ -1,8 +1,8 @@
 # Security-Incident-Response-with-NIST-Cybersecurity-Framework
 
-This project was facilitated by the Google Cybersecurity Professional Certificate in Coursera. The student was in a scenario where their organization has undergone an ICMP flood attack. They must document and analyse the security incident through the NIST cybersecurity framework by giving a summary of the incident, identify the source, the protective methods deployed, the detection methods used, the response of the team and their receovery plan.
-
 ## Objective
+
+This project was facilitated by the Google Cybersecurity Professional Certificate in Coursera. The student was in a scenario where their organization has undergone an ICMP flood attack. They must document and analyse the security incident through the NIST cybersecurity framework by giving a summary of the incident, identify the source, the protective methods deployed, the detection methods used, the response of the team and their receovery plan.
 
 ### Skills Learned
 - Responding to a security incident using the NIST cybersecurity framework
